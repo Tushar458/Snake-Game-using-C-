@@ -11,7 +11,7 @@ Catching a fruit will give your score 10 increments. If your score is above 50  
 ➤The twist in our snake game project is that it’s different from other  versions as we have a special feature we have implemented in this  game in which every time you eat a fruit (F), the head of the snake  gets teleported through a portal denoted by purple ‘?’ and the rest of  the body follows it. This leads to a more interesting game and one  has to be careful on how to approach the fruit as there are more  chances of colliding with the obstacle and snake itself after this  special trait.
 # ➤Approach
 # 2.1 How was the idea originated ? 
-As both of us have an interest in gaming we wanted to  implement something different in this, and using the concepts  of OOPS such as inheritance, polymorphism and classes we  could make our interest into this project. We chose a simple  game and added our own idea in it of teleportation so the  game is more interesting and original. 
+As I have an interest in gaming I wanted to  implement something different in this, and using the concepts  of OOPS such as inheritance, polymorphism and classes I  could make my interest into this project. I chose a simple  game and added our own idea in it of teleportation so the  game is more interesting and original. 
 # 2.2 Prototype development 
 The prototype development started with keeping these things  in mind: 
 ● The snake is represented with a 0(zero) symbol. 
